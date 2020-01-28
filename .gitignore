@@ -3,6 +3,12 @@
 # Edit at https://www.gitignore.io/?templates=django,python,windows,linux
 
 venv/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.pkl
+
 ### Django ###
 *.log
 *.pot
